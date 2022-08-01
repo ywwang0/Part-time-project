@@ -9,3 +9,6 @@
 ### ceemdan_decomposation.ipynb
 完全自适应噪声集合经验模态分解（Complete EEMD with Adaptive Noise，CEEMDAN），又称完全集合经验模态分解。
 作用是把一个时序信号分成多个分量
+
+### LSTM_stock.ipynb
+利用LSTM网络预测虚拟货币/股票的闭盘价格
