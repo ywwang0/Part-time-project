@@ -12,3 +12,9 @@
 
 ### LSTM_stock.ipynb
 利用LSTM网络预测虚拟货币/股票的闭盘价格
+
+### 阻抗谱
+电化学方向可以自动画图计算数据
+
+### matlab_python.ipynb
+从matlab转成python的一个聚类的算法
