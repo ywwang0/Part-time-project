@@ -18,3 +18,6 @@
 
 ### matlab_python.ipynb
 从matlab转成python的一个聚类的算法
+
+### SVR-eemd.ipynb
+SVR电力系统载荷预测
