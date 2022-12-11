@@ -24,3 +24,6 @@ SVR电力系统载荷预测
 
 ### R语言回归模版.R
 别人给的R语言回归模版
+
+### ANN-CNN_pytorch
+2022-12-11 pytorch平台下实现ANN和CNN
